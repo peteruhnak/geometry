@@ -1,3 +1,3 @@
 as yet unclassified
 length
-	^ directionPoint dist: originPoint
+	^ direction dist: origin
