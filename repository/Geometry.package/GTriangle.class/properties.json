@@ -9,7 +9,8 @@
 		"v1",
 		"v2",
 		"v3",
-		"area" ],
+		"area",
+		"edgesByOpositeVertex" ],
 	"name" : "GTriangle",
 	"pools" : [
 		 ],
