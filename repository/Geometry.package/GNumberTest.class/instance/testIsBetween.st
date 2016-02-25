@@ -1,0 +1,13 @@
+as yet unclassified
+testIsBetween
+	self assert:(2 isBetween: 2.2 and: 5 with: 0.2 )
+		equals: true.
+	
+	self assert:( 1.8 isBetween: 1.8 and: 5 with: 0.2 )
+		equals: true.
+		
+	self assert:( 1.5 isBetween: 1.8 and: 5 with: 0.2 )
+		equals: false.
+		
+	self assert:( 1.88 isBetween: 1.5 and: 5 with: 0.2 )
+		equals: true.

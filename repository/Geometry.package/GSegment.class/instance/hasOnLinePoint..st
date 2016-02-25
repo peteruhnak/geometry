@@ -1,4 +1,4 @@
-as yet unclassified
+properties
 hasOnLinePoint: p
 	| e k edges tr v|
 	(self v1 =~ p or:[ self v2 =~ p] ) 

@@ -1,4 +1,4 @@
-as yet unclassified
+properties
 cutWith: frame
 | coll |
 coll := OrderedCollection new.

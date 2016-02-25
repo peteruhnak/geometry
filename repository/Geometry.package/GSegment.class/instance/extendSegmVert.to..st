@@ -1,4 +1,4 @@
-as yet unclassified
+properties
 extendSegmVert: v to: frame
 	|points ver p|
 	points := frame intersectionPointsWithLine: self asLine.
