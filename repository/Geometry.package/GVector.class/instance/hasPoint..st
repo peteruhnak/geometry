@@ -1,4 +1,5 @@
 as yet unclassified
 hasPoint: aPoint
-^(GSegment with: self origin with: self direction ) hasPoint: aPoint
+^ (( origin - direction ) sign = ( origin - aPoint ) sign  or:
+					[ origin = aPoint ])
  
