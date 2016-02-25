@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initializeWith: aPoint1 with: aPoint2
 	super initialize.
 	v1 := aPoint1.

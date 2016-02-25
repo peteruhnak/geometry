@@ -1,7 +1,8 @@
 properties
 area
-	| semiperimeter |
+	| semiperimeter|
 	semiperimeter := self semiperimeter.
+
 	^ (self edges 
 		inject: semiperimeter
 		into: [ :subProduct :edge |
