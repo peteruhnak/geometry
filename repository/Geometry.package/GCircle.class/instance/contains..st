@@ -1,3 +1,3 @@
 as yet unclassified
-isInCircle:aPoint
+contains:aPoint
 ^(self radius > (self center dist: aPoint)) 

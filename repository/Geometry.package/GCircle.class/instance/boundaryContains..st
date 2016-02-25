@@ -1,3 +1,3 @@
 as yet unclassified
-isOnBoundary:aPoint
+boundaryContains:aPoint
 ^(self radius = (self center dist: aPoint)) 
