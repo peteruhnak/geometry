@@ -1,4 +1,4 @@
-as yet unclassified
+arithmetic
 * aRay
 
 ^ ( self origin x - self direction x ) * ( aRay origin x - aRay direction x ) 

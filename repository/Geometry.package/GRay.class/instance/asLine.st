@@ -1,4 +1,4 @@
-as yet unclassified
+converting
 asLine
 |ai bi ci|
 (self origin  y) = (self direction  y) ifTrue:

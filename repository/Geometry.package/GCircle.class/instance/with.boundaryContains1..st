@@ -1,4 +1,4 @@
-as yet unclassified
+public interface
 with: p1 boundaryContains1: aPoint
  ( self boundaryContains: aPoint )
 	ifFalse:[

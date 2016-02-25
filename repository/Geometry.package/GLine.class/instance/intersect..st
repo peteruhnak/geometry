@@ -1,4 +1,4 @@
-as yet unclassified
+rectangle functions
 intersect: aGLine 
 	| xi yi |
 

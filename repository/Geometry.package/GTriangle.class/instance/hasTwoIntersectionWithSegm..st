@@ -1,4 +1,4 @@
-as yet unclassified
+properties
 hasTwoIntersectionWithSegm: segm
 	|i|
 	i := 0.

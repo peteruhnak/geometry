@@ -1,3 +1,3 @@
-as yet unclassified
+converting
 asLine
 	^ self 

@@ -6,4 +6,4 @@ area
 	^ (self edges 
 		inject: semiperimeter
 		into: [ :subProduct :edge |
-			semiperimeter - edge length * subProduct ]) sqrt
+			(semiperimeter - edge length) * subProduct ]) sqrt

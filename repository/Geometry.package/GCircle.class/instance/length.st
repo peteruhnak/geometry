@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 length
 	^ 2 * (self radius)* (Float pi)

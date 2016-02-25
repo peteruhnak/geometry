@@ -1,4 +1,4 @@
-as yet unclassified
+properties
 parallelTo: aLine
 
 	^ (self a isZero & aLine a isZero) or:

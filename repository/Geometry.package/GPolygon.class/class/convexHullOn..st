@@ -1,7 +1,7 @@
 as yet unclassified
 convexHullOn: aCollection
 	| lastPoint nextPoint convexHull |
-"self halt."	
+"self halt."
 	convexHull := OrderedCollection new.	
 	nextPoint := aCollection detectMin: #x.
 	 [

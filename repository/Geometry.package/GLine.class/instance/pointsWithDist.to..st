@@ -1,4 +1,4 @@
-as yet unclassified
+properties
 pointsWithDist: aNumber to: aPoint
 	| deltaX delta |
 	

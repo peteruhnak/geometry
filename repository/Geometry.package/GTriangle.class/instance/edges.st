@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 edges
 	^ self edgesByOpositeVertex values

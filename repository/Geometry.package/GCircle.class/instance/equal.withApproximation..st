@@ -1,4 +1,4 @@
-as yet unclassified
+comparing
 equal: circ withApproximation: aNumber
 "self halt."
 	^( (self radius - circ radius ) abs < aNumber )

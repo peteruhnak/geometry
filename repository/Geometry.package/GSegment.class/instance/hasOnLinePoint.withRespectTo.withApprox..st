@@ -13,11 +13,11 @@ hasOnLinePoint: p withRespectTo: vert withApprox: apro
 							abs
 					/k length).
 			e := apro min: eps.
-			((
+			(((
 			( p x isBetween: vert x and: self v2 x with: e)and:
 			[ p y isBetween: vert y and: self v2 y with: e]) 
 		or:[ (self v2 x isBetween: vert x and: p x with: e) and:
-			(self v2 y isBetween: vert y and: p y with: e)])
+			(self v2 y isBetween: vert y and: p y with: e)]) "and:[ self asLine hasPoint: p withApproximation: e ]")
 				ifFalse:[^ false]
 				ifTrue:[
 					"tr := ( GTriangle with: p with: self v1 with: self v2 ).

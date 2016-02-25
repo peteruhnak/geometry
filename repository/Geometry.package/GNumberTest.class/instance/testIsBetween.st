@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testIsBetween
 	self assert:(2 isBetween: 2.2 and: 5 with: 0.2 )
 		equals: true.

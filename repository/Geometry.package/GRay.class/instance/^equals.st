@@ -1,4 +1,4 @@
-as yet unclassified
+comparing
 = aRay
 
 ^ self origin =~ aRay origin and: [

@@ -1,3 +1,3 @@
-as yet unclassified
+comparing
 boundaryContains: aPoint
 ^(self radius =~ (self center dist: aPoint))

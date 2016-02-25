@@ -1,4 +1,4 @@
-as yet unclassified
+distance functions
 dist: p
 	^ ( ( a * p x ) + ( b * p y ) + c )abs
 	/

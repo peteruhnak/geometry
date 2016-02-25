@@ -1,4 +1,4 @@
-as yet unclassified
+comparing
 = line 
 ^( self a asFloat =~ line a asFloat and: [ self b asFloat =~ line b asFloat and: [ self c asFloat =~ line c asFloat ] ] )  
 or:

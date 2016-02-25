@@ -1,4 +1,4 @@
-as yet unclassified
+rectangle functions
 extendBy: num
 |vect k  xn yn|
 	( self origin x = self direction x ) 

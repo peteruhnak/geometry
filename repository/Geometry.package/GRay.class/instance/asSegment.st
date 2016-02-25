@@ -1,3 +1,3 @@
-as yet unclassified
+converting
 asSegment
 	^ GSegment with: origin with: direction

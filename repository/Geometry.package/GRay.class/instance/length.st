@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 length
 	^ (( self origin x - self direction x ) * ( self origin x - self direction x )
 	+
