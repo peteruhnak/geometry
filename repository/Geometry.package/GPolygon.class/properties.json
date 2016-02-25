@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "NataliaTymchuk 6/27/2014 21:14",
 	"instvars" : [
-		"vertices" ],
+		"vertices",
+		"edges" ],
 	"name" : "GPolygon",
 	"pools" : [
 		 ],
