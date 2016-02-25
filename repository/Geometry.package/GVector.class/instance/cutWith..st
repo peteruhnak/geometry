@@ -2,7 +2,11 @@ as yet unclassified
 cutWith: frame
 | coll |
 coll := OrderedCollection new.
-coll := frame edges collect: [ :edge | edge intersectionPointWithVector: self ] thenSelect: #notNil.
+frame edges
+	collect: [ :edge | edge intersectionPointWithVector: self ]
+	thenDo: [ :p |
+		(p notNil and: [ coll noneSatisfy: [ :p2 | p2 =~ p ] ])
+			ifTrue: [ coll add: p ] ] .
 coll isEmpty ifTrue:[^ nil]
 				 ifFalse:[coll size = 2 
 					ifTrue:  [ ^GSegment with: coll first with: coll second ]

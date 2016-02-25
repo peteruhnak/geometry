@@ -1,5 +1,5 @@
 as yet unclassified
 hasPoint: aPoint
-^ (( origin - direction ) sign = ( origin - aPoint ) sign  or:
+^ (( origin - direction ) signFuz = ( origin - aPoint ) signFuz  or:
 					[ origin = aPoint ])
  
