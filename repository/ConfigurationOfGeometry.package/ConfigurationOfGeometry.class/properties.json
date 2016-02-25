@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfGeometry",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfGeometry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
