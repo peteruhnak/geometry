@@ -21,4 +21,3 @@ self
 self
 	assert: ((GLine a:1 b:0 c: 0)= (GLine a:1 b:0 c: 0))
 	equals: true.
-	
