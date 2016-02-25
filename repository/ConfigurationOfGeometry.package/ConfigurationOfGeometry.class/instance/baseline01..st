@@ -5,6 +5,6 @@ baseline01: spec
 		for: #common
 		do: [ 
 			spec blessing: #baseline.
-			spec repository: 'http://smalltalkhub.com/mc/NataliaMoskovchuk/Geometry/main'
+			spec repository: 'http://smalltalkhub.com/mc/NataliaTymchuk/Geometry/main'
 .
 			spec package: 'Geometry' ].
