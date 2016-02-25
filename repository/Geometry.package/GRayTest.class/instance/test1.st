@@ -1,6 +1,5 @@
 as yet unclassified
 test1
-	self halt.
 	self
 		assert: (( GRay origin: 28 @ 30 direction: (-14.19823766979061@ -21.67099433810146)) hasPoint:
 		(9@1)). 
