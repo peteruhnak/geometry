@@ -1,3 +1,0 @@
-*Geometry
-= aPoint
-	^ self =~ aPoint
