@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "GVectorTest",
+	"name" : "GRayTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

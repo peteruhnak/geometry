@@ -8,7 +8,7 @@
 	"instvars" : [
 		"origin",
 		"direction" ],
-	"name" : "GVector",
+	"name" : "GRay",
 	"pools" : [
 		 ],
 	"super" : "Object",

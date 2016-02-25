@@ -3,7 +3,7 @@ cutWith: frame
 | coll |
 coll := OrderedCollection new.
 frame edges
-	collect: [ :edge | edge intersectionPointWithVector: self ]
+	collect: [ :edge | edge intersectionPointWithRay: self ]
 	thenDo: [ :p |
 		(p notNil and: [ coll noneSatisfy: [ :p2 | p2 =~ p ] ])
 			ifTrue: [ coll add: p ] ] .
