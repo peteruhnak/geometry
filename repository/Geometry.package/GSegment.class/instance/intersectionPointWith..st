@@ -1,6 +1,7 @@
 properties
-intersectionPointWith:aLine
-| |
+intersectionPointWith: aLine
 
-^self asLine intersect: aLine.
-
+	^ (self asLine intersect: aLine) ifNotNilDo: [ :point | 
+		(self hasPoint: point)
+			ifTrue:  [ point ]
+			ifFalse: [ nil ] ]
