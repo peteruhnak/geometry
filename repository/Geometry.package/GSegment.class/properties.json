@@ -7,7 +7,8 @@
 	"commentStamp" : "NataliaTymchuk 5/15/2014 19:46",
 	"instvars" : [
 		"v1",
-		"v2" ],
+		"v2",
+		"epsilon" ],
 	"name" : "GSegment",
 	"pools" : [
 		 ],
