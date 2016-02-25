@@ -1,6 +1,5 @@
 figures
 isDegenerate
-"all points are on one line"
- ^	(v1 x =~ v2 x and: [ v1 x =~ v3 x ]) 
-	or:
-		[v1 y =~ v2 y and: [ v1 y =~ v3 y ]]
+	^  (self edges first length + self edges second length closeTo: self edges third length) or: [ 
+		(self edges second length + self edges third length closeTo: self edges first length) or: [ 
+		 self edges third length + self edges first length closeTo: self edges second length ] ]
