@@ -1,3 +1,3 @@
 as yet unclassified
-contains:aPoint
-^ (self radius > (self center dist: aPoint)) 
+contains: aPoint
+^ (self radius > (self center dist: aPoint)) and:[ (self boundaryContains: aPoint) not ]

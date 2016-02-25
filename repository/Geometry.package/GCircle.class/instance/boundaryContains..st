@@ -1,3 +1,3 @@
 as yet unclassified
-boundaryContains:aPoint
+boundaryContains: aPoint
 ^(self radius =~ (self center dist: aPoint)) 
