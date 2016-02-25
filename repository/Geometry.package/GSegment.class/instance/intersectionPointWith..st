@@ -1,5 +1,5 @@
 properties
-intersectLine:aLine
+intersectionPointWith:aLine
 | |
 
 ^self asLine intersect: aLine.
