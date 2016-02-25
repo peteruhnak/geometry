@@ -1,5 +1,5 @@
 as yet unclassified
-testСutWith
+testCutWith
 	self
 		assert: ((GLine a: -20  b: 30  c: -500 ) cutWith: (Rectangle origin: -15 @ 0 corner: 15 @ 15 )) v1
 		equals: (-15@(20/3)).

@@ -1,5 +1,5 @@
 as yet unclassified
-testСutWith
+testCutWith
 	self
 		assert: ((GRay origin: -10 @ 10 direction: 20 @ 30) cutWith: (Rectangle origin: -15 @ 0 corner: 15 @ 15 )) v1
 		equals: (-5/2)@15.
