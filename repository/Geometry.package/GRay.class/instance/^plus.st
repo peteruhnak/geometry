@@ -1,7 +1,11 @@
 arithmetic
 + aRay
+	| newOrigin vector |
+	
+	newOrigin := self origin + aRay origin / 2.
+	
+	vector := (self direction - self origin) + 
+				 (aRay direction - aRay origin).
 
-	self direction: ( self direction x + aRay direction x ) 
-					  @ ( self direction y + aRay direction y ).
-	^ self 
+	^ GRay origin: newOrigin direction: newOrigin + vector
  
