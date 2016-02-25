@@ -1,3 +1,3 @@
-*geometry
+*Geometry
 <~ other
 	^ (self >=~ other) not

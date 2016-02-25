@@ -1,3 +1,3 @@
-*geometry
+*Geometry
 signFuz
 	^ (x signFuz @ y signFuz)

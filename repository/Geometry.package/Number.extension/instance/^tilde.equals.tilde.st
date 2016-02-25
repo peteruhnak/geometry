@@ -1,3 +1,3 @@
-*geometry
+*Geometry
 ~=~ aNumber
    ^ (self =~ aNumber) not
