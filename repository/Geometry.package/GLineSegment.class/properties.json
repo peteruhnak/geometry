@@ -11,5 +11,5 @@
 	"name" : "GLineSegment",
 	"pools" : [
 		 ],
-	"super" : "RTObject",
+	"super" : "Object",
 	"type" : "normal" }
