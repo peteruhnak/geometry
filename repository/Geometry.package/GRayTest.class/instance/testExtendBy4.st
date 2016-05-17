@@ -1,5 +1,6 @@
 as yet unclassified
 testExtendBy4
+	self skip.
 	self
 		assert: (( GRay origin: 4 @ 2 direction: 0 @ 2) extendBy: 1 ) direction
 		equals: ( -1 @ 2).
