@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfGeometry",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfGeometry",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
