@@ -14,6 +14,7 @@ intersectEllipse: anEllipse
 	b := ldir dotProduct: mdiff.
 	c := (diff dotProduct: mdiff) - 1.
 	det := b squared - a*c.
+	a = 0 ifTrue: [ ^#() ].
 	
 	result := OrderedCollection new.
 	det = 0 ifTrue: [ |t|

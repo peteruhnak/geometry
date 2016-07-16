@@ -10,6 +10,8 @@ intersectCircle: aCircle
 	det := b squared - (4 * a * c).
 	det < 0
 		ifTrue: [ ^ #() ].
+	a = 0
+		ifTrue: [ ^ #() ].
 	root := det sqrt.
 	t1 := (b negated + root) / (2 * a).
 	t2 := (b negated - root) / (2 * a).
