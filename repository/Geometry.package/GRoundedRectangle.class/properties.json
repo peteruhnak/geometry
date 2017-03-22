@@ -1,15 +1,14 @@
 {
-	"category" : "Geometry",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "PeterUhnak 7/16/2016 17:03",
+	"super" : "Object",
+	"category" : "Geometry",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"rectangle",
-		"borderRadius" ],
+		"borderRadius"
+	],
 	"name" : "GRoundedRectangle",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

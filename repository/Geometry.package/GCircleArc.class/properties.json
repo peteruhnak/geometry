@@ -1,16 +1,15 @@
 {
-	"category" : "Geometry",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "PeterUhnak 7/16/2016 15:09",
+	"super" : "Object",
+	"category" : "Geometry",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"circle",
 		"startAngle",
-		"endAngle" ],
+		"endAngle"
+	],
 	"name" : "GCircleArc",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}
