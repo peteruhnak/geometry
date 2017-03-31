@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"testCutWith" : " 3/31/2017 16:34:57",
+		"testEquel3" : " 3/31/2017 16:34:57",
+		"testDist" : " 3/31/2017 16:34:57",
+		"testIntersect" : " 3/31/2017 16:34:57",
+		"testHasPoint" : " 3/31/2017 16:34:57",
+		"testHasPoint2" : " 3/31/2017 16:34:57",
+		"testEquel" : " 3/31/2017 16:34:57",
+		"testParallelTo" : " 3/31/2017 16:34:57",
+		"testEquel2" : " 3/31/2017 16:34:57",
+		"testIntersect1" : " 3/31/2017 16:34:57",
+		"testThroughAndHasPoint" : " 3/31/2017 16:34:57",
+		"testEquel4" : " 3/31/2017 16:34:57",
+		"testEquel1" : " 3/31/2017 16:34:57"
+	},
+	"class" : { }
+}
