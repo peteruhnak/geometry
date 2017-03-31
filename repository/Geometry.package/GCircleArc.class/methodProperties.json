@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"radius" : " 3/31/2017 16:34:57",
+		"=" : " 3/31/2017 16:34:57",
+		"startAngle" : " 3/31/2017 16:34:57",
+		"endAngle" : " 3/31/2017 16:34:57",
+		"setCircle:startAngle:endAngle:" : " 3/31/2017 16:34:57",
+		"center" : " 3/31/2017 16:34:57",
+		"circle" : " 3/31/2017 16:34:57",
+		"intersectLineSegment:" : " 3/31/2017 16:34:57"
+	},
+	"class" : {
+		"circle:startAngle:endAngle:" : " 3/31/2017 16:34:57",
+		"center:radius:startAngle:endAngle:" : " 3/31/2017 16:34:57"
+	}
+}

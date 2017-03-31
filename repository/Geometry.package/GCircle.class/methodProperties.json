@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"initializeWithCenter:radius:" : " 3/31/2017 16:34:57",
+		"with:boundaryContains1:" : " 3/31/2017 16:34:57",
+		"contains:" : " 3/31/2017 16:34:57",
+		"radius" : " 3/31/2017 16:34:57",
+		"point:isTooCloseTo:" : " 3/31/2017 16:34:57",
+		"boundaryContains:" : " 3/31/2017 16:34:57",
+		"polygonOn:" : " 3/31/2017 16:34:57",
+		"length" : " 3/31/2017 16:34:57",
+		"boundaryContainsThis:" : " 3/31/2017 16:34:57",
+		"equal:withApproximation:" : " 3/31/2017 16:34:57",
+		"encompassingRectangle" : " 3/31/2017 16:34:57",
+		"cosBetween:and:" : " 3/31/2017 16:34:57",
+		"center" : " 3/31/2017 16:34:57",
+		"intersectWith:" : " 3/31/2017 16:34:57",
+		"inscribedRectangle" : " 3/31/2017 16:34:57",
+		"=" : " 3/31/2017 16:34:57",
+		"upperPoint" : " 3/31/2017 16:34:57",
+		"intersectLineSegment:" : " 3/31/2017 16:34:57",
+		"boundaryContainsWhichOf:" : " 3/31/2017 16:34:57",
+		"with:boundaryContains:" : " 3/31/2017 16:34:57"
+	},
+	"class" : {
+		"center:radius:" : " 3/31/2017 16:34:57"
+	}
+}

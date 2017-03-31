@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testHasPoint" : " 3/31/2017 16:34:57",
+		"testHasOnBoundary" : " 3/31/2017 16:34:57",
+		"testSideWhichHas" : " 3/31/2017 16:34:57",
+		"testIntersectionPointsWith1" : " 3/31/2017 16:34:57",
+		"testHasOnOneSideAnd" : " 3/31/2017 16:34:57",
+		"testIntersectionPointWithRay" : " 3/31/2017 16:34:57",
+		"testIntersectionPointsWith2" : " 3/31/2017 16:34:57"
+	},
+	"class" : { }
+}
