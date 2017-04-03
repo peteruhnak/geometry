@@ -1,18 +1,18 @@
 {
 	"instance" : {
-		"testCutWith" : " 3/31/2017 16:34:57",
-		"testEquel3" : " 3/31/2017 16:34:57",
-		"testDist" : " 3/31/2017 16:34:57",
-		"testIntersect" : " 3/31/2017 16:34:57",
-		"testHasPoint" : " 3/31/2017 16:34:57",
-		"testHasPoint2" : " 3/31/2017 16:34:57",
-		"testEquel" : " 3/31/2017 16:34:57",
-		"testParallelTo" : " 3/31/2017 16:34:57",
-		"testEquel2" : " 3/31/2017 16:34:57",
-		"testIntersect1" : " 3/31/2017 16:34:57",
-		"testThroughAndHasPoint" : " 3/31/2017 16:34:57",
-		"testEquel4" : " 3/31/2017 16:34:57",
-		"testEquel1" : " 3/31/2017 16:34:57"
+		"testCutWith" : " 3/24/2017 02:22:20",
+		"testEquel3" : " 3/24/2017 02:22:20",
+		"testDist" : " 3/24/2017 02:22:20",
+		"testIntersect" : " 3/24/2017 02:22:20",
+		"testHasPoint" : " 3/24/2017 02:22:20",
+		"testHasPoint2" : " 3/24/2017 02:22:20",
+		"testEquel" : " 3/24/2017 02:22:20",
+		"testParallelTo" : " 3/24/2017 02:22:20",
+		"testEquel2" : " 3/24/2017 02:22:20",
+		"testIntersect1" : " 3/24/2017 02:22:20",
+		"testThroughAndHasPoint" : " 3/24/2017 02:22:20",
+		"testEquel4" : " 3/24/2017 02:22:20",
+		"testEquel1" : " 3/24/2017 02:22:20"
 	},
 	"class" : { }
 }
