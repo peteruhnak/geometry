@@ -1,27 +1,27 @@
 {
 	"instance" : {
-		"initializeWithCenter:radius:" : " 3/31/2017 16:34:57",
-		"with:boundaryContains1:" : " 3/31/2017 16:34:57",
-		"contains:" : " 3/31/2017 16:34:57",
-		"radius" : " 3/31/2017 16:34:57",
-		"point:isTooCloseTo:" : " 3/31/2017 16:34:57",
-		"boundaryContains:" : " 3/31/2017 16:34:57",
-		"polygonOn:" : " 3/31/2017 16:34:57",
-		"length" : " 3/31/2017 16:34:57",
-		"boundaryContainsThis:" : " 3/31/2017 16:34:57",
-		"equal:withApproximation:" : " 3/31/2017 16:34:57",
-		"encompassingRectangle" : " 3/31/2017 16:34:57",
-		"cosBetween:and:" : " 3/31/2017 16:34:57",
-		"center" : " 3/31/2017 16:34:57",
-		"intersectWith:" : " 3/31/2017 16:34:57",
-		"inscribedRectangle" : " 3/31/2017 16:34:57",
-		"=" : " 3/31/2017 16:34:57",
-		"upperPoint" : " 3/31/2017 16:34:57",
-		"intersectLineSegment:" : " 3/31/2017 16:34:57",
-		"boundaryContainsWhichOf:" : " 3/31/2017 16:34:57",
-		"with:boundaryContains:" : " 3/31/2017 16:34:57"
+		"initializeWithCenter:radius:" : " 3/24/2017 02:22:20",
+		"with:boundaryContains1:" : " 3/24/2017 02:22:20",
+		"contains:" : " 3/24/2017 02:22:20",
+		"radius" : " 3/24/2017 02:22:20",
+		"point:isTooCloseTo:" : " 3/24/2017 02:22:20",
+		"boundaryContains:" : " 3/24/2017 02:22:20",
+		"polygonOn:" : " 3/24/2017 02:22:20",
+		"length" : " 3/24/2017 02:22:20",
+		"boundaryContainsThis:" : " 3/24/2017 02:22:20",
+		"equal:withApproximation:" : " 3/24/2017 02:22:20",
+		"encompassingRectangle" : " 3/24/2017 02:22:20",
+		"cosBetween:and:" : " 3/24/2017 02:22:20",
+		"center" : " 3/24/2017 02:22:20",
+		"intersectWith:" : " 3/24/2017 02:22:20",
+		"inscribedRectangle" : " 3/24/2017 02:22:20",
+		"=" : " 3/24/2017 02:22:20",
+		"upperPoint" : " 3/24/2017 02:22:20",
+		"intersectLineSegment:" : " 3/24/2017 02:22:20",
+		"boundaryContainsWhichOf:" : " 3/24/2017 02:22:20",
+		"with:boundaryContains:" : " 3/24/2017 02:22:20"
 	},
 	"class" : {
-		"center:radius:" : " 3/31/2017 16:34:57"
+		"center:radius:" : " 3/24/2017 02:22:20"
 	}
 }

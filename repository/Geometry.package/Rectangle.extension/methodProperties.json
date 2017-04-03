@@ -1,17 +1,17 @@
 {
 	"instance" : {
-		"intersectionPointsWithSegment:" : " 3/31/2017 16:34:57",
-		"edges" : " 3/31/2017 16:34:57",
-		"vertices" : " 3/31/2017 16:34:57",
-		"hasOnOneSide:and:" : " 3/31/2017 16:34:57",
-		"intersectionPointsWithLine:" : " 3/31/2017 16:34:57",
-		"intersectionPointWithRay:" : " 3/31/2017 16:34:57",
-		"hasOnBoundary:" : " 3/31/2017 16:34:57",
-		"hasPoint:" : " 3/31/2017 16:34:57",
-		"sideWhichHas:" : " 3/31/2017 16:34:57",
-		"geomCenter" : " 3/31/2017 16:34:57"
+		"intersectionPointsWithSegment:" : " 3/24/2017 02:22:20",
+		"edges" : " 3/24/2017 02:22:20",
+		"vertices" : " 3/24/2017 02:22:20",
+		"hasOnOneSide:and:" : " 3/24/2017 02:22:20",
+		"intersectionPointsWithLine:" : " 3/24/2017 02:22:20",
+		"intersectionPointWithRay:" : " 3/24/2017 02:22:20",
+		"hasOnBoundary:" : " 3/24/2017 02:22:20",
+		"hasPoint:" : " 3/24/2017 02:22:20",
+		"sideWhichHas:" : " 3/24/2017 02:22:20",
+		"geomCenter" : " 3/24/2017 02:22:20"
 	},
 	"class" : {
-		"geomCenter:extent:" : " 3/31/2017 16:34:57"
+		"geomCenter:extent:" : " 3/24/2017 02:22:20"
 	}
 }

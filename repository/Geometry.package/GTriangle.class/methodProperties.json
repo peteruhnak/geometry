@@ -1,17 +1,17 @@
 {
 	"instance" : {
-		"initializeWith:with:with:" : " 3/31/2017 16:34:57",
-		"edges" : " 3/31/2017 16:34:57",
-		"vertices" : " 3/31/2017 16:34:57",
-		"isDegenerate" : " 3/31/2017 16:34:57",
-		"hasTwoIntersectionWithSegm:" : " 3/31/2017 16:34:57",
-		"perimeter" : " 3/31/2017 16:34:57",
-		"circumscribedCircle" : " 3/31/2017 16:34:57",
-		"edgesByOpositeVertex" : " 3/31/2017 16:34:57",
-		"area" : " 3/31/2017 16:34:57",
-		"semiperimeter" : " 3/31/2017 16:34:57"
+		"initializeWith:with:with:" : " 3/24/2017 02:22:20",
+		"edges" : " 3/24/2017 02:22:20",
+		"vertices" : " 3/24/2017 02:22:20",
+		"isDegenerate" : " 3/24/2017 02:22:20",
+		"hasTwoIntersectionWithSegm:" : " 3/24/2017 02:22:20",
+		"perimeter" : " 3/24/2017 02:22:20",
+		"circumscribedCircle" : " 3/24/2017 02:22:20",
+		"edgesByOpositeVertex" : " 3/24/2017 02:22:20",
+		"area" : " 3/24/2017 02:22:20",
+		"semiperimeter" : " 3/24/2017 02:22:20"
 	},
 	"class" : {
-		"with:with:with:" : " 3/31/2017 16:34:57"
+		"with:with:with:" : " 3/24/2017 02:22:20"
 	}
 }

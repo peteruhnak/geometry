@@ -1,15 +1,15 @@
 {
 	"instance" : {
-		"intersectLineSegment:" : " 3/31/2017 16:34:57",
-		"vertices" : " 3/31/2017 16:34:57",
-		"edges" : " 3/31/2017 16:34:57",
-		"encompasingRectangle" : " 3/31/2017 16:34:57",
-		"initializeVertices:" : " 3/31/2017 16:34:57",
-		"center" : " 3/31/2017 16:34:57",
-		"includesPoint:" : " 3/31/2017 16:34:57"
+		"includesPoint:" : " 3/24/2017 02:22:20",
+		"intersectLineSegment:" : " 3/24/2017 02:22:20",
+		"vertices" : " 3/24/2017 02:22:20",
+		"edges" : " 3/24/2017 02:22:20",
+		"initializeVertices:" : " 3/24/2017 02:22:20",
+		"center" : " 3/24/2017 02:22:20",
+		"encompassingRectangle" : "AlexandreBergel 4/3/2017 18:46"
 	},
 	"class" : {
-		"newVertices:" : " 3/31/2017 16:34:57",
-		"convexHullOn:" : " 3/31/2017 16:34:57"
+		"newVertices:" : " 3/24/2017 02:22:20",
+		"convexHullOn:" : " 3/24/2017 02:22:20"
 	}
 }
